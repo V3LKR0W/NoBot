@@ -1,5 +1,6 @@
 # NoBot
-Discord bot that I never finished, maybe eventually I'll finish it in the future.
+Date started: July 29th, 2020
+Discord bot that I never finished, maybe eventually I'll finish it in the future. 
 
 
 
