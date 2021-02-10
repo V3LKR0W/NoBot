@@ -8,3 +8,5 @@ Discord bot that I never finished, maybe eventually I'll finish it in the future
 Main Config: file located in keys.py, requires Discord Bot Token, also requires mongodb client auth.
 Secondary Config: file located in cogs/Settings.py, requires tennor api token.
 
+# Backend Files
+https://github.com/V3LKR0W/NoBot-Backend-Flask 
